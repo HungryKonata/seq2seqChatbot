@@ -9,6 +9,10 @@
 * re
 * sqlalchemy
 
-组员: 徐早辉，邓浩宇，吕玮智
+# 分工
+
+xzh: 前端，数据库，部署
+dhy: 模型训练，语料处理，后端，自动化测试
+lwz: 爬虫，选择模式
 
 software engineering homework
